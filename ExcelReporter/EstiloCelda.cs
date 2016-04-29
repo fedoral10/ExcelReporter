@@ -7,7 +7,7 @@ using System.Text;
 
 namespace ExcelReporter
 {
-    class EstiloCelda
+    public class EstiloCelda
     {
         public enum Alineacion_Horizontal_Texto {
             centrado,

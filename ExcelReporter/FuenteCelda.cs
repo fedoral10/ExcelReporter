@@ -7,7 +7,7 @@ using System.Text;
 
 namespace ExcelReporter
 {
-    class FuenteCelda
+    public class FuenteCelda
     {
         public string Nombre_Fuente { get;set; }
         public short Size { get; set; }

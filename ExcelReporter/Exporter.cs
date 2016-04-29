@@ -11,7 +11,7 @@ using System.Text;
 
 namespace ExcelReporter
 {
-    class Exporter
+    public class Exporter
     {
         private IWorkbook _workbook;
         private IFont _hfont=null;
